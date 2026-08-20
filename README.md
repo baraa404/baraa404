@@ -46,7 +46,7 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 
 <p align="center">
   <strong>Mobile</strong><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple" alt="mobile" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift" alt="mobile" />
 </p>
 
 <p align="center">
