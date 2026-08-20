@@ -7,13 +7,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20I'm%20Baraa%20👋&fontSize=54&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="header" width="100%" />
 
-  <h1>
-    <a href="https://baraa-mabrok.pages.dev">baraa-mabrok.pages.dev</a>
-  </h1>
-
-  <a href="https://baraa-mabrok.pages.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=EF5F65&center=true&vCenter=true&width=780&height=52&lines=Flutter+Developer+%26+UI%2FUX+Designer;I+design%2C+build%2C+and+ship+production+apps" alt="typing animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=EF5F65&center=true&vCenter=true&width=780&height=52&lines=Flutter+Developer+%26+UI%2FUX+Designer;I+design%2C+build%2C+and+ship+production+apps" alt="typing animation" />
 
   <p>
     <a href="https://github.com/baraa404"><img src="https://img.shields.io/badge/GitHub-baraa404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -39,6 +33,18 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 - 💼 Freelance Flutter developer
 - 🎨 UI/UX in Figma, then every interaction and animation in Flutter
 - ⚡ Target: buttery **120fps** product UI
+
+---
+
+<div align="center">
+
+  <h2>See the work</h2>
+
+  <a href="https://baraa-mabrok.pages.dev">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&text=View%20Portfolio&fontSize=52&fontAlignY=42&fontColor=ffffff&animation=twinkling&desc=baraa-mabrok.pages.dev&descSize=20&descAlignY=70&stroke=ffffff&strokeWidth=1" width="100%" alt="View Portfolio — baraa-mabrok.pages.dev" />
+  </a>
+
+</div>
 
 ---
 
@@ -115,7 +121,13 @@ Client and personal products: architecture, UI/UX, APIs, cloud, and store releas
 
 <div align="center">
 
-  <h2><a href="https://baraa-mabrok.pages.dev">Let's build something people remember →</a></h2>
+  <p>
+    <a href="https://baraa-mabrok.pages.dev">baraa-mabrok.pages.dev</a>
+    ·
+    <a href="mailto:baraa0email@gmail.com">email</a>
+    ·
+    <a href="https://www.linkedin.com/in/baraa-mabrok-6b15b1356/">LinkedIn</a>
+  </p>
 
   <img src="https://komarev.com/ghpvc/?username=baraa404&style=for-the-badge&color=ef5f65" alt="profile views" />
 
