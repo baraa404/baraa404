@@ -1,26 +1,28 @@
 <!--
-  Profile README built from Baraa's portfolio + CV.
-  Motion stack: capsule-render · readme-typing-svg · skillicons · github-readme-stats · platane/snk
-  Template pattern: flyingsquirrel0419/awesome-git-profile (developer + advanced)
+  Motion: capsule-render · typing-svg · skillicons · github-readme-stats
+           activity-graph · abozanona/pacman-contribution-graph
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=240&section=header&text=Hi%20I'm%20Baraa%20👋&fontSize=58&fontAlignY=34&desc=Flutter%20Developer%20%26%20UI/UX%20Designer&descSize=18&descAlignY=58&animation=twinkling&fontColor=ffffff" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20I'm%20Baraa%20👋&fontSize=54&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="header" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=EF5F65&center=true&vCenter=true&width=740&height=46&lines=I+design%2C+build%2C+and+ship+production+Flutter+apps;Clean+architecture+%C2%B7+smooth+UI+%C2%B7+backends+that+stay+out+of+the+way;IEEE+Flutter+track+lead+%C2%B7+Available+for+freelance+%26+full-time" alt="typing animation" />
+  <h1>
+    <a href="https://baraa-mabrok.pages.dev">baraa-mabrok.pages.dev</a>
+  </h1>
+
+  <a href="https://baraa-mabrok.pages.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=EF5F65&center=true&vCenter=true&width=780&height=52&lines=Flutter+Developer+%26+UI%2FUX+Designer;I+design%2C+build%2C+and+ship+production+apps" alt="typing animation" />
   </a>
 
   <p>
-    <a href="https://baraa-mabrok.pages.dev"><img src="https://img.shields.io/badge/Portfolio-baraa--mabrok.pages.dev-EF5F65?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/baraa404"><img src="https://img.shields.io/badge/GitHub-baraa404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/baraa-mabrok-6b15b1356/"><img src="https://img.shields.io/badge/LinkedIn-Baraa%20Mabrok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:baraa0email@gmail.com"><img src="https://img.shields.io/badge/Email-baraa0email%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://wa.me/201064925971"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   </p>
 
-  <p><b>Egypt</b> · GPA <b>3.40/4.0</b> · B.Sc. Computer Science, Misr Higher Institute · Expected Jun 2027</p>
+  <p><b>Egypt</b> · GPA <b>3.40/4.0</b> · B.Sc. Computer Science · Expected Jun 2027 · Available for freelance & full-time</p>
 
 </div>
 
@@ -34,41 +36,32 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 
 - 🎓 **IEEE CS Chapter** — Instructor & Head of Flutter Track (2025 – Present)
 - 🚀 **DEPI** — Flutter Development Trainee (Jun 2025 – Dec 2025)
-- 💼 Freelance Flutter developer — available for freelance & full-time
-- 🌐 Portfolio: [baraa-mabrok.pages.dev](https://baraa-mabrok.pages.dev)
+- 💼 Freelance Flutter developer
 - 🎨 UI/UX in Figma, then every interaction and animation in Flutter
-- ⚡ Target: buttery **120fps** shopping / product UI
+- ⚡ Target: buttery **120fps** product UI
 
 ---
 
-## Featured work
-
-| Project | What it is | Stack |
-|---------|------------|-------|
-| **[Rahma Store](https://github.com/baraa404/Rahma-Store)** | Arabic-first kitchenware commerce. Offline delta-sync, WhatsApp Canvas checkout, culturally-aware Arabic search. On Google Play. | Flutter · Riverpod · Supabase · Firebase |
-| **[Supporter](https://github.com/baraa404/Supporter)** | Community campaigns — groups, action links, decaying points, live leaderboards. Closed-source showcase. | Flutter · Riverpod · Firebase · FCM |
-| **[Tasky](https://github.com/baraa404/Tasky)** | Offline todo with onboarding, accent theming, folders, and local persistence. | Flutter · Material 3 · shared_preferences |
-| **[CloudSnap](https://github.com/baraa404/Cloud-Snap)** | Upload media → commit-pinned jsDelivr CDN URL. Self-hosted GitHub-as-CDN. | Next.js · TypeScript · Cloudflare |
-| **[News Snap](https://github.com/baraa404/News-Snap)** | Dark news reader with swipeable cards, category tabs, in-app WebView. | Flutter · NewsAPI · dio |
-| **[Healthy Scan](https://github.com/baraa404/Healthy_scan)** | Scan a barcode → Nutri-Score, Eco-Score, NOVA, allergens. | Flutter · Firebase · Open Food Facts |
-
----
-
-## Tech stack
+## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgres,sqlite,figma,react,nextjs,ts,js,python,cpp,nodejs,linux,docker,nginx,aws,githubactions,androidstudio" alt="tech stack" />
+  <strong>Mobile</strong><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple" alt="mobile" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-00B0B3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLoC-1488CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-111111?style=for-the-badge" />
+  <strong>Backend & data</strong><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,sqlite,nodejs" alt="backend" />
+</p>
+
+<p align="center">
+  <strong>Design</strong><br/>
+  <img src="https://skillicons.dev/icons?i=figma,framer" alt="design" />
+</p>
+
+<p align="center">
+  <strong>Cloud & shipping</strong><br/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,githubactions,react,nextjs,ts,python,cpp" alt="cloud" />
 </p>
 
 ---
@@ -86,7 +79,7 @@ Client and personal products: architecture, UI/UX, APIs, cloud, and store releas
 
 ---
 
-## GitHub stats
+## GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baraa404&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
@@ -97,25 +90,23 @@ Client and personal products: architecture, UI/UX, APIs, cloud, and store releas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraa404&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baraa404&theme=red-dusk&hide_border=true&area=true" alt="activity graph" />
+</div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/baraa404/baraa404/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baraa404/baraa404/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baraa404/baraa404/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/baraa404/baraa404/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
-
----
-
-## Certifications
-
-- Flutter Advanced Course — BLoC and MVVM
-- Complete Flutter & Dart Development Course
-- Mastering Flutter: Responsive & Adaptive UI Design
-- Deep Dive into Clean Architecture in Flutter
 
 ---
 
 <div align="center">
 
-  **Let's build something people remember.**  
-  <a href="https://baraa-mabrok.pages.dev">baraa-mabrok.pages.dev</a> · <a href="mailto:baraa0email@gmail.com">baraa0email@gmail.com</a> · <a href="https://www.linkedin.com/in/baraa-mabrok-6b15b1356/">LinkedIn</a> · <a href="https://wa.me/201064925971">WhatsApp</a>
+  <h2><a href="https://baraa-mabrok.pages.dev">Let's build something people remember →</a></h2>
 
   <img src="https://komarev.com/ghpvc/?username=baraa404&style=for-the-badge&color=ef5f65" alt="profile views" />
 
