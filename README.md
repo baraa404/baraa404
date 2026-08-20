@@ -56,7 +56,13 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 
 <p align="center">
   <strong>Design</strong><br/>
-  <img src="https://skillicons.dev/icons?i=figma,framer" alt="design" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd,blender" alt="design" />
+  <br/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" alt="Penpot" />
+  <img src="https://img.shields.io/badge/Rive-1D1D1F?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
+  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white" alt="Lottie" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <p align="center">
