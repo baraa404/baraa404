@@ -45,6 +45,11 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 ## Tools
 
 <p align="center">
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=js,dart,python,cpp" alt="languages" />
+</p>
+
+<p align="center">
   <strong>Mobile</strong><br/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift" alt="mobile" />
 </p>
@@ -56,18 +61,16 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 
 <p align="center">
   <strong>Design</strong><br/>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd,blender" alt="design" />
-  <br/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
-  <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" alt="Penpot" />
-  <img src="https://img.shields.io/badge/Rive-1D1D1F?style=for-the-badge&logo=rive&logoColor=white" alt="Rive" />
-  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white" alt="Lottie" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="48" alt="Framer" />
+  <img src="https://cdn.simpleicons.org/penpot/000000" height="48" alt="Penpot" />
+  <img src="https://cdn.simpleicons.org/rive/1D1D1F" height="48" alt="Rive" />
+  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="48" alt="Lottie" />
 </p>
 
 <p align="center">
-  <strong>Cloud & shipping</strong><br/>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,githubactions,react,nextjs,ts,python,cpp" alt="cloud" />
+  <strong>Cloud & DevOps</strong><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,nginx,linux" alt="cloud" />
 </p>
 
 ---
