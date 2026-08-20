@@ -38,10 +38,8 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 
 <div align="center">
 
-  <h2>See the work</h2>
-
   <a href="https://baraa-mabrok.pages.dev">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&text=View%20Portfolio&fontSize=52&fontAlignY=42&fontColor=ffffff&animation=twinkling&desc=baraa-mabrok.pages.dev&descSize=20&descAlignY=70&stroke=ffffff&strokeWidth=1" width="100%" alt="View Portfolio — baraa-mabrok.pages.dev" />
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-baraa--mabrok.pages.dev-EF5F65?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=111111" alt="View Portfolio" height="52" />
   </a>
 
 </div>
