@@ -13,6 +13,7 @@
   </a>
 
   <p>
+    <a href="https://baraa-mabrok.pages.dev"><img src="https://img.shields.io/badge/Portfolio-baraa--mabrok.pages.dev-EF5F65?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/baraa404"><img src="https://img.shields.io/badge/GitHub-baraa404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/baraa-mabrok-6b15b1356/"><img src="https://img.shields.io/badge/LinkedIn-Baraa%20Mabrok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:baraa0email@gmail.com"><img src="https://img.shields.io/badge/Email-baraa0email%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -34,6 +35,7 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 - 🎓 **IEEE CS Chapter** — Instructor & Head of Flutter Track (2025 – Present)
 - 🚀 **DEPI** — Flutter Development Trainee (Jun 2025 – Dec 2025)
 - 💼 Freelance Flutter developer — available for freelance & full-time
+- 🌐 Portfolio: [baraa-mabrok.pages.dev](https://baraa-mabrok.pages.dev)
 - 🎨 UI/UX in Figma, then every interaction and animation in Flutter
 - ⚡ Target: buttery **120fps** shopping / product UI
 
@@ -113,7 +115,7 @@ Client and personal products: architecture, UI/UX, APIs, cloud, and store releas
 <div align="center">
 
   **Let's build something people remember.**  
-  <a href="mailto:baraa0email@gmail.com">baraa0email@gmail.com</a> · <a href="https://www.linkedin.com/in/baraa-mabrok-6b15b1356/">LinkedIn</a> · <a href="https://wa.me/201064925971">WhatsApp</a>
+  <a href="https://baraa-mabrok.pages.dev">baraa-mabrok.pages.dev</a> · <a href="mailto:baraa0email@gmail.com">baraa0email@gmail.com</a> · <a href="https://www.linkedin.com/in/baraa-mabrok-6b15b1356/">LinkedIn</a> · <a href="https://wa.me/201064925971">WhatsApp</a>
 
   <img src="https://komarev.com/ghpvc/?username=baraa404&style=for-the-badge&color=ef5f65" alt="profile views" />
 
