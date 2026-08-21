@@ -39,7 +39,7 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 <div align="center">
 
   <a href="https://baraa-mabrok.pages.dev">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-baraa--mabrok.pages.dev-EF5F65?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=111111" alt="View Portfolio" height="52" />
+    <img src="https://readmeforge.natrajx.in/api/button?label=View+My+Portfolio+%E2%86%92&metal=rose-gold&style=cta&width=480&height=72" alt="View My Portfolio" />
   </a>
 
 </div>
