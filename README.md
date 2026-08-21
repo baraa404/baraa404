@@ -32,7 +32,6 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 - 🚀 **DEPI** — Flutter Development Trainee (Jun 2025 – Dec 2025)
 - 💼 Freelance Flutter developer
 - 🎨 UI/UX in Figma, then every interaction and animation in Flutter
-- ⚡ Target: buttery **120fps** product UI
 
 ---
 
