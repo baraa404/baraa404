@@ -37,7 +37,7 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 
 <div align="center">
 
-  <a href="https://baraa-mabrok.pages.dev">
+  <a href="https://baraa.tech/en">
     <img src="https://readmeforge.natrajx.in/api/card-glass?title=Portfolio&value=View+My+Work+%E2%86%92&metal=aurora-rose&width=560&height=160&glassTheme=dark" alt="View My Portfolio" />
   </a>
 
@@ -119,7 +119,7 @@ Client and personal products: architecture, UI/UX, APIs, cloud, and store releas
 <div align="center">
 
   <p>
-    <a href="https://baraa-mabrok.pages.dev">baraa-mabrok.pages.dev</a>
+    <a href="https://baraa.tech/en">baraa.tech</a>
     ·
     <a href="mailto:baraa0email@gmail.com">email</a>
     ·
