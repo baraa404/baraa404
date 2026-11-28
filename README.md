@@ -37,7 +37,7 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 
 <div align="center">
 
-  <p><strong><a href="https://baraa.tech/en">View my portfolio</a></strong></p>
+  <a href="https://baraa.tech/en"><img src="assets/portfolio-button.png" width="280" height="60" alt="View my portfolio" /></a>
 
 </div>
 
