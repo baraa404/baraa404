@@ -37,9 +37,7 @@ I ship production apps (offline-first commerce, community campaigns, nutrition s
 
 <div align="center">
 
-  <a href="https://baraa.tech/en">
-    <img src="https://readmeforge.natrajx.in/api/card-glass?title=Portfolio&value=View+My+Work+%E2%86%92&metal=aurora-rose&width=560&height=160&glassTheme=dark" alt="View My Portfolio" />
-  </a>
+  <p><strong><a href="https://baraa.tech/en">View my portfolio</a></strong></p>
 
 </div>
 
